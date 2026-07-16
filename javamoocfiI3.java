@@ -10,6 +10,10 @@ public class javamoocfiI3 {
         System.out.println(message);
 
         scanner.close();
+        String abc= "trial string";
+        System.out.println("message written by user is: " + message);
+        System.out.println("trial string is: " + abc);
+        
     }
 }
 
